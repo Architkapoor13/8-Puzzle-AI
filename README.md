@@ -14,7 +14,7 @@ Implemented useing the Breadth First Search(BFS) algorithm. You can see the resu
 
 3. Best First Search:
 Implemented using the Best First Search algorithm. See the results below and compare them withh all the above.
-![best](screenshots/best first search.png)
+![best](screenshots/best.png)
    
 4. Hill Climbing Search:
 Implemented using the Hill CLimbing Search algorithm. Though it couldn't find the solution of the give goal state from the start state yet you can see the results below.
